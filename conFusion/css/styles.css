@@ -64,3 +64,19 @@ address{
     bottom: 0px;
     z-index: 1;
 }
+
+.modal-header,
+.modal-header{
+    background-color: #512DA8;
+    color: #fff;
+}
+
+button.close{
+    color: #fff;
+    z-index: 100;
+}
+
+.modal-body,
+.modal-content{
+    background-color: #dbd3ee;
+}
